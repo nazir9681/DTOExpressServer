@@ -23,3 +23,5 @@ app.post('/pay', function(req, res){
 app.listen(PORT, function(){
     console.log("Server running on localhost: "+ PORT);
 });
+
+//Hello world.
